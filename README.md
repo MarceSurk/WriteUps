@@ -1,5 +1,4 @@
-# WriteUps
-CTF Pivoting – DockerLabs (LittlePivoting)
+###CTF Pivoting – DockerLabs (LittlePivoting)
 
 Hoy os comparto un WriteUp de la maquina LittlePivoting de DockerLabs la cual me ha ayudado a recordar como realizar pivoting entre diferentes redes, cosa que llevaba bastante tiempo sin realizar. 
 Antes que nada, “Pivoting” es una técnica la cual permite a un atacante acceder a máquinas que estén en distintas redes.
